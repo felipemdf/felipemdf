@@ -1,6 +1,4 @@
-### Hi 👋
-
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Felipe</h1>
+<h1 align = "justify"> Hi 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Felipe</h1>
 <p align = "justify">Back-end Developer, Coffee lover and Javascript.</p>
 
 - 🌱 I’m currently learning DotNET, Docker and API REST.
@@ -23,5 +21,5 @@
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=felipemdf&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemdf&hide=TeX&layout=compact)
