@@ -1,4 +1,4 @@
-<h1 align = "justify"> Hi 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Felipe</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Felipe</h1>
 <p align = "justify">Back-end Developer, Coffee lover and Javascript.</p>
 
 - 🌱 I’m currently learning DotNET, Docker and API REST.
