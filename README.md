@@ -19,6 +19,6 @@
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=felipemdf&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemdf&langs_count=8)](https://github.com/felipemdf/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=felipemdf&show_icons=true&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemdf&layout=compact)](https://github.com/felipemdf/github-readme-stats)
 
